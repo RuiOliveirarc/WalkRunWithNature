@@ -21,7 +21,7 @@ class _Trilhos extends State<Trilhos> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: MyAppBar(
-        title: Text("Trilhos"), //Icon(Icons.add_location_alt),
+        title: Text("Trilhos"),
       ),
       body: ListView(
         padding: const EdgeInsets.all(8),
